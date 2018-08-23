@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "testing">
+
+
+<test name = "test">
+
+
+
+<classes>
+            <class name="stepDefinition.TestRunner"/>
+        </classes>
+
+
+
+
+</test>
+
+
+
+</suite>
